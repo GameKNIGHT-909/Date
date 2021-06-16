@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623841812 source:/Volumes/XDRIVE/MacOS/Coding/CodeBlocks/Projects/C:C++/D/Date.cpp
+	"Date.h"
+
+1623841982 /Volumes/XDRIVE/MacOS/Coding/CodeBlocks/Projects/C:C++/D/Date.h
+	<iostream>
+
+1623841996 source:/Volumes/XDRIVE/MacOS/Coding/CodeBlocks/Projects/C:C++/D/main.cpp
+	"Date.h"
+	<iostream>
+
